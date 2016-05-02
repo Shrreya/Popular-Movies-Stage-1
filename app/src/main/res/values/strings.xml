@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="top_rated">Top Rated Movies</string>
+    <string name="sort_settings">Sort Movies</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialog_title">Select sorting type</string>
+    <string-array name="sort_types">
+        <item>Most Popular</item>
+        <item>Top Rated</item>
+    </string-array>
+    <string name="title_activity_detail">Movie Details</string>
+    <string name="api_key">f20d6b74956af8e8c153eb39ac133525</string>
+</resources>
