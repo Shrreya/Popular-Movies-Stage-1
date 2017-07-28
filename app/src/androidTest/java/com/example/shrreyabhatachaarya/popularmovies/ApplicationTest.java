@@ -1,4 +1,4 @@
-package com.example.android.popularmovies;
+package com.example.shrreyabhatachaarya.popularmovies;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

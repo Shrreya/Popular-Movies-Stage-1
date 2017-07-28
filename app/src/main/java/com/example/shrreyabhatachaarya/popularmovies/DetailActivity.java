@@ -1,4 +1,4 @@
-package com.example.android.popularmovies;
+package com.example.shrreyabhatachaarya.popularmovies;
 
 import android.content.Intent;
 import android.os.AsyncTask;

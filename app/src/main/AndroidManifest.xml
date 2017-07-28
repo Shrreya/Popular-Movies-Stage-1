@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.android.popularmovies">
+    package="com.example.shrreyabhatachaarya.popularmovies">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -10,7 +10,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="com.example.shrreyabhatachaarya.popularmovies.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -18,9 +18,9 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".DetailActivity"
+            android:name="com.example.shrreyabhatachaarya.popularmovies.DetailActivity"
             android:label="@string/title_activity_detail"
-            android:parentActivityName=".MainActivity"/>
+            android:parentActivityName="com.example.shrreyabhatachaarya.popularmovies.MainActivity"/>
     </application>
 
 </manifest>
